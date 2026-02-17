@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pytest
+pytest-cov
+httpx
+pydantic-settings
+requests
+torch                
+transformers           
+gguf-py    
+ollama   
